@@ -6,3 +6,5 @@ Ladies and gentlemen!
 This is really just testing out and learning GIT workflow
 
 Making another change
+
+Now this file needs to use greeter as well
